@@ -1,2 +1,2 @@
 # 30-Days-of-code
-I am learning code on hackerrank
+I am learning code on Hackerrank
